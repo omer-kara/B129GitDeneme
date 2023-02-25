@@ -6,6 +6,7 @@ public class Deneme {
         //git
         //Merhaba Dunya
         //GitHub
+        //GitHub 2. deneme
 
     }
 }
