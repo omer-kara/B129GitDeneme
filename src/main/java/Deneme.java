@@ -3,11 +3,9 @@ public class Deneme {
         System.out.println("Merhabe");
         System.out.println("Dunya");
         System.out.println("B129");
-
         //git
-
         //Merhaba Dunya
-
+        //GitHub
 
     }
 }
