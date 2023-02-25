@@ -9,6 +9,8 @@ public class Deneme {
         //GitHub 2. deneme
         //omer branch
         //Omer Branch 3. deneme
+        //master yorum
+
     }
 }
 //restore ==> Tamamen Working Space'i temizler
